@@ -38,10 +38,10 @@ An e-commerce company conducted an A/B test to compare the performance of a new 
 
 The new page outperformed the old one in all regions.
 ----
-## Acknowledgments 🙌
+# Acknowledgments 🙌
 This project was conducted as part of the **DECI and Udacity Data & AI Track**. 
 
-![image](https://github.com/user-attachments/assets/9ff3407f-0448-492a-b0d3-507c7491122e)
+![image](https://github.com/user-attachments/assets/404c7ad8-a894-4542-b23f-c0128d113bfd)
 
 
 ---
