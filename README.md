@@ -42,6 +42,7 @@ The new page outperformed the old one in all regions.
 This project was conducted as part of the **DECI and Udacity Data & AI Track**. 
 
 ![image](https://github.com/user-attachments/assets/404c7ad8-a894-4542-b23f-c0128d113bfd)
+![image](https://github.com/user-attachments/assets/5009f723-1a9f-44b4-b316-e2b4894850b0)
 
 
 ---
